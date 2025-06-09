@@ -13,7 +13,7 @@ export const HomePage = () => {
         <div className="my-8">
           <h2 className="text-3xl text-center md:text-left md:text-6xl">
             <span className=" text-outline font-extrabold md:text-8xl">
-              AI Superpower
+             MockMate
             </span>
             <span className="text-gray-500 font-extrabold">
               - A better way to
@@ -54,14 +54,13 @@ export const HomePage = () => {
           />
 
           <div className="absolute top-4 left-4 px-4 py-2 rounded-md bg-white/40 backdrop-blur-md">
-            Inteviews Copilot&copy;
+            MockMate's Copilot&copy;
           </div>
 
           <div className="hidden md:block absolute w-80 bottom-4 right-4 px-4 py-2 rounded-md bg-white/60 backdrop-blur-md">
             <h2 className="text-neutral-800 font-semibold">Developer</h2>
             <p className="text-sm text-neutral-500">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam
-              distinctio natus, quos voluptatibus magni sapiente.
+              MockMate
             </p>
 
             <Button className="mt-3">
@@ -103,8 +102,8 @@ export const HomePage = () => {
 
           <div className="col-span-1 md:col-span-2 gap-8 max-h-96 min-h-96 w-full flex flex-col items-center justify-center text-center">
             <p className="text-center text-muted-foreground">
-              Transform the way you prepare, gain confidence, and boost your
-              chances of landing your dream job. Let AI be your edge in
+              Ace your interviews with MockMate's AI-driven prep.
+              Build confidence, sharpen to stand out. Let AI be your edge in
               today&apos;s competitive job market.
             </p>
 

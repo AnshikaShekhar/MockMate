@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "yt-ai-mock-interview"
-  }
+    "default": "ai-mock-interview-june-2025"
+  },
+  "targets": {},
+  "etags": {}
 }
