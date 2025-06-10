@@ -69,19 +69,12 @@ export const Footer = () => {
             </p>
           </div>
 
-          {/* Third Column: Services */}
-          <div>
-            <h3 className="font-bold text-lg mb-4">Services</h3>
-            <ul>
-              <FooterLink to="/services/interview-prep">
-                Interview Preparation
-              </FooterLink>
-              <FooterLink to="/services/career-coaching">
-                Career Coaching
-              </FooterLink>
-              <FooterLink to="/services/resume-building">
-                Resume Building
-              </FooterLink>
+           <div>
+            <h3 className="font-bold text-lg mb-4">Our Services</h3>
+            <ul className="space-y-2">
+              <li>Personalized Practice</li>
+              <li>Real-Time Feedback</li>
+              <li>Industry-Specific Scenarios</li>
             </ul>
           </div>
 
@@ -117,3 +110,4 @@ export const Footer = () => {
     </div>
   );
 };
+
