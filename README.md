@@ -1,5 +1,5 @@
 # 🎤 MockMate – React AI Mock Interview
-🔗 [Live Website](https://ai-mock-interview-june-2025.web.app/)
+🔗 [Live Website](https://ai-mock-interview-june-2025.web.app)
 
 MockMate is a next-generation AI-powered web application developed to revolutionize the way users prepare for interviews. By simulating realistic interview environments, MockMate empowers individuals to practice confidently and improve their performance across technical, behavioral, and domain-specific interviews.
 
